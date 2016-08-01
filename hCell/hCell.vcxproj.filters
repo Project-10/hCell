@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Cell">
+      <UniqueIdentifier>{b70916d7-4722-4cc3-8004-03142839fa63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Marker">
+      <UniqueIdentifier>{4820e5c3-1db8-48eb-ac4d-145f4a857cd6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Cell.cpp">
+      <Filter>Source Files\Cell</Filter>
+    </ClCompile>
+    <ClCompile Include="Marker.cpp">
+      <Filter>Source Files\Marker</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\include\hCell.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\types.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Cell.h">
+      <Filter>Source Files\Cell</Filter>
+    </ClInclude>
+    <ClInclude Include="Marker.h">
+      <Filter>Source Files\Marker</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\macroses.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
