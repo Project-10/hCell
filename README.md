@@ -5,7 +5,7 @@
 
 hCell is a C++ library, which allows representing raster images via hexagonical picture elements instead of classical quadratic ones. This leads to hexagonical neighbourhood system, where each pixture element has 6 equidistant neighbours. Such neighbourhood system finds its application in computer vision and pattern recognition problems. Also, the library is well suited for creating artistic photo manipulation effects. 
 
-Check out the [project site](http://research.project-10.de/hCell/) for all the details like
+Check out the [project site](http://research.project-10.de/hcell/) for all the details like
 
 - [Online documentation](http://www.project-10.de/research/hcell/doc/)
 - [Installation guide](http://research.project-10.de/hcell/doc/index.html#s3)
