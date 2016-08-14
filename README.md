@@ -19,7 +19,7 @@ Framework development discussions and thorough bug reports are collected on [Iss
 hCell is released under the [BSD 3-Clause license](https://github.com/Project-10/hCell/blob/master/License.txt).
 The Project-X reference models are released for unrestricted use.
 
-$$y_0 = \epsilon$$
+\f$y_0 = \epsilon\f$
 
 Please cite hCell in your publications if it helps your research:
 
