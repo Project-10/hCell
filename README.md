@@ -3,7 +3,7 @@
 [![Version](https://img.shields.io/github/release/Project-10/hCell.svg)](https://github.com/Project-10/hCell/releases)
 [![License](https://img.shields.io/badge/license-BSD-brightgreen.svg)](License.txt)
 
-hCell is a C++ library, which allows representing raster images via hexagonical picture elements instead of classical quadratic ones. This leads to hexagonical neighbourhood system, where each pixture element has 6 equidistant neighbours. Such neighbourhood system finds its application in computer vision and pattern recognition problems. Also, the library is well suited for creating artistic photo manipulation effects. 
+hCell is a C++ library, which allows representing raster images via hexagonical picture elements instead of classical quadratic ones. This leads to hexagonical neighbourhood system, where each picture element has 6 equidistant neighbours. Such neighbourhood system finds its application in computer vision and pattern recognition problems. Also, the library is well suited for creating artistic photo manipulation effects. 
 
 Check out the [project site](http://research.project-10.de/hcell/) for all the details like
 
